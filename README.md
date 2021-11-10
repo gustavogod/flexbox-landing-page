@@ -1,3 +1,5 @@
+<img src="capa.png" />
+
 # flexbox-landing-page
 > Landing page responsiva criada como parte do curso "Posicionando elementos com Flexbox em CSS" da Digital Innovation One
 
